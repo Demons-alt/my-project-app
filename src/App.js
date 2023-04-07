@@ -10,7 +10,7 @@ import './App.css';
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/my-project-app",
       element: <div className='font-bold text-5xl text-orange-700' >Hello world!</div>,
     },
   ]);
